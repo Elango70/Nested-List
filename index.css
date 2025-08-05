@@ -1,0 +1,42 @@
+h2{
+    background-color: #D92C54;
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+ol{
+    font-size: 20px;
+}
+ol p{
+    font-size: 18px;
+}
+body{
+    background-color: #EEEEEE;
+}
+
+ol li{
+    background-color: #c287b1;
+}
+ol li ol{
+    background-color: #EEEEEE;
+    color: #c83349;
+}
+ol li ol p{
+    background-color: #EEEEEE;
+    color: #000000;    
+}
+ol li ol li{
+    background-color: #EEEEEE;
+}
+body{
+    text-align: justify;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+marquee{
+    color: #D92C54;
+    font-size: 20px;
+    font-weight: bold;
+}
